@@ -1,4 +1,4 @@
-ChefConf is a community conference intended for networking and collaboration in the Chef community.
+\#ChefConf is a community conference intended for networking and collaboration in the Chef community.
 
 We value the participation of each member of the Chef community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by Opscode or not.
 
@@ -11,7 +11,7 @@ Opscode is dedicated to providing a harassment-free conference experience for ev
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for ChefConf.
+Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for \#ChefConf.
 
 Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of Opscode.
 
@@ -38,7 +38,10 @@ If you are being harassed, notice that someone else is being harassed, or have a
 If the matter is especially urgent, please call/contact any of these individuals:
 
 - Noah Kantrowitz at +1 (518) 479-9339
-- Nathen Harvey at +1 [...]
+- Jennifer Burke at +1 [...]
+- Nathen Harvey at +1 (202) 368-7264
+- Kelly Good at +1 [...]
+
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
