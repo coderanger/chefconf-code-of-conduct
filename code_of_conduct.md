@@ -47,8 +47,8 @@ Conference staff will be happy to help participants contact hotel/venue security
 
 Procedure for Handling Harassment
 ------------------------------------------
-- [Attendee Procedure for incident handling](/2013/about/code-of-conduct/harassment-incidents/)
-- [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+- [Attendee Procedure for incident handling](Attendee%20Procedure%20for%20incident%20handling.md)
+- [Staff Procedure for incident handling](Staff%20Procedure%20for%20incident%20handling.md)
 
 License
 -------
