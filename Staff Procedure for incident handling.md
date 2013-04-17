@@ -5,11 +5,12 @@ Be sure to have a good understanding of our [Code of Conduct policy](code_of_con
 
 Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found in the [Attendee Procedure for incident handling](Attendee%20Procedure%20for%20incident%20handling.md).
 
-Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+Try to get as much detail of the incident in written form from the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather includes the following:
 
  - Identifying information (name/badge number) of the participant doing the harassing
  - The behavior that was in violation
- - The approximate time of the behavior (if different than the time the report was made)
+ - The approximate time of the behavior
+ - The approximate time the report was made
  - The circumstances surrounding the incident
  - Other people involved in the incident
 
