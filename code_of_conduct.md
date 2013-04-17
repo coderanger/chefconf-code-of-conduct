@@ -38,9 +38,9 @@ If you are being harassed, notice that someone else is being harassed, or have a
 If the matter is especially urgent, please call/contact any of these individuals:
 
 - Noah Kantrowitz at +1 (518) 479-9339
-- Jennifer Burke at +1 [...]
+- Jennifer Burke at +1 (206) 427-3618
 - Nathen Harvey at +1 (202) 368-7264
-- Kelly Good at +1 [...]
+- Kelly Good at +1 (415) 297-1007
 
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
