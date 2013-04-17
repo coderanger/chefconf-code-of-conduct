@@ -12,7 +12,7 @@ This procedure has been adopted from the Ada Initiative's guide titled "[Confere
 
 - Identifying information (name/badge number) of the participant doing the harassing
 - The behavior that was in violation
-- The approximate time of the behavior (if different than the time the report was made)
+- The approximate time of the behavior
 - The circumstances surrounding the incident
 - Other people involved in the incident
 
