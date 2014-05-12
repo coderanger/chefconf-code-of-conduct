@@ -1,19 +1,20 @@
 This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
 -------------------------------------------------------------------------------------------------
-Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [https://us.pycon.org/2013/about/code-of-conduct/](https://us.pycon.org/2013/about/code-of-conduct/)
+Be sure to have a good understanding of our [Code of Conduct policy](code_of_conduct.md).
 
-Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found here: [/2013/about/code-of-conduct/harassment-incidents/](/2013/about/code-of-conduct/harassment-incidents/)
+Also have a good understanding of what is expected from an attendee that wants to report a harassment incident. These guidelines can be found in the [Attendee Procedure for incident handling](Attendee%20Procedure%20for%20incident%20handling.md).
 
-Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+Try to get as much detail of the incident in written form from the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather includes the following:
 
  - Identifying information (name/badge number) of the participant doing the harassing
  - The behavior that was in violation
- - The approximate time of the behavior (if different than the time the report was made)
+ - The approximate time of the behavior
+ - The approximate time the report was made
  - The circumstances surrounding the incident
  - Other people involved in the incident
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for \#ChefConf. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police
  - Offer the victim a private place to sit
@@ -48,10 +49,8 @@ Some things for the staff to consider when dealing with Code of Conduct offender
 - Not allowing a speaker who violated the policy to give (further) talks at the event now or in the future
 - Immediately ending any event volunteer responsibilities and privileges the harasser holds
 - Requiring that the harasser not volunteer for future events your organization runs (either indefinitely or for a certain time period)
-- Requiring that the harasser refund any travel grants and similar they received (this would need to be a condition of the grant at the time of being awarded)
 - Requiring that the harasser immediately leave the event and not return
 - Banning the harasser from future events (either indefinitely or for a certain time period)
-- Removing a harasser from membership of relevant organizations
 - Publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful)
 
 Give accused attendees a place to appeal to if there is one, but in the meantime the report stands. Keep in mind that it is not a good idea to encourage an apology from the harasser.
@@ -62,4 +61,4 @@ Depending on the incident, the conference chair, or designate, may decide to mak
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with.  If there are residual hard feelings, suggest to them to write an email to the conference chair or to the event coordinator. It will be dealt with accordingly.
 
-A listing of [PyCon staff is located here](/2013/about/staff/), including contact phone numbers. If at all possible, all reports should be made directly to [Ewa Jodlowska](mailto:ewa@python.org) (Event Coordinator) or [Jesse Noller](mailto:jnoller@python.org) (PyCon Chair).
+If at all possible, all reports should be made directly to [Jennifer Burke](mailto:jennifer@opscode.com) (Event Coordinator) or [Nathen Harvey](mailto:nharvey@opscode.com) (\#ChefConf Chair).
